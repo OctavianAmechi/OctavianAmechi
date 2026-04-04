@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **In Progress**
+- **[Threat Hunting Tor Project](https://github.com/OctavianAmechi/Threat-Hunting-Scenario-Tor-Octavian)**
 
 <hr/>
 
